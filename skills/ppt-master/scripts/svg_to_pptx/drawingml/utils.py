@@ -88,6 +88,7 @@ EA_FONTS = {
     # Korean
     'Malgun Gothic', 'Gulim', 'Dotum', 'Batang',
     'Noto Sans KR', 'Noto Serif KR',
+    'KORPUB돋움체', 'KoPub Dotum', 'KoPub돋움체', 'KORPUB바탕체', 'KoPub Batang',
 }
 SYSTEM_FONTS = {'system-ui', '-apple-system', 'BlinkMacSystemFont'}
 
