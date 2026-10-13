@@ -26,7 +26,9 @@ $RECYCLE.BIN/
 # Editor and IDE Files
 # VSCode
 .vscode/
-.claude/
+.claude/*
+!.claude/settings.json
+!.claude/hooks/
 .spec-workflow/
 !.vscode/settings.json
 !.vscode/tasks.json
